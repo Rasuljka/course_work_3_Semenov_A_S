@@ -1,1 +1,1 @@
-# course_work_3_Semenov_A_S
+Курсовая работа в рамках главы 3 "Основы backend разработки" от SkyPro
